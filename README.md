@@ -13,5 +13,6 @@ Cordially zodarixx
 
 # User and pass
 
-For the moment the username and the password is root![zch 2](https://user-images.githubusercontent.com/75496771/125494844-08e2b0a1-0f56-47b2-b193-e6f212cdd257.PNG)
+For the moment the username and the password is root!
 
+![zch 1](https://user-images.githubusercontent.com/75496771/125494607-31a9d1ab-759e-4072-abd1-8bf5e900d648.PNG)
